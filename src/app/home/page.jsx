@@ -7,7 +7,7 @@ export default function Home() {
     return (
         <div className={styles.container}>
             <div className={styles.main}>
-                <Image src="/image/passaros.png" alt="imagem aleatória" width={200} height={200} className={styles.img}/>
+                <Image src="/image/passaros.png" alt="imagem aleatória" width={200} height={200} className={styles.img} priority/>
                 <div className={styles.text}>
                     <ul className={styles.list}>
                         <li className={styles.listItens}><span className={styles.span}>Nome:</span> Lucas Zani da Costa Luz</li>

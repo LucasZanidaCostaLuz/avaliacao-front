@@ -39,7 +39,7 @@
     background-color: red;
     width: 15vw;
     height: 5vh;
-    border-radius: 5px;
+    border-radius: 15px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -61,7 +61,7 @@
 .linkCase :hover{
     transform: scale(1.1);
     background-color: crimson;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .span {
